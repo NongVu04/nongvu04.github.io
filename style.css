@@ -9,7 +9,11 @@
 
 #google {
     text-decoration: none;
-    background-color: blue;
+    background-color: rgb(67, 202, 26);
     color: #fff;
     
+}
+
+#text {
+    color: rgb(28, 139, 212);
 }
