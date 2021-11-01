@@ -1,5 +1,8 @@
 body {
-    background: rgba(189, 212, 127, 0);
+    background-image: url(https://allimages.sgp1.digitaloceanspaces.com/photographercomvn/2020/08/1597070950_Hinh-nen-may-tinh-desktop-dep-moi-nhat-2020-full-HD.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
 }
 .middle {
     position: absolute;
