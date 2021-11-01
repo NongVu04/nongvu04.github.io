@@ -1,5 +1,5 @@
 body {
-    background: rgb(190, 212, 127);
+    background: rgba(189, 212, 127, 0.123);
 }
 .middle {
     position: absolute;
