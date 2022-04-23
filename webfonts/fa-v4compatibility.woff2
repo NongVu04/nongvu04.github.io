@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NongHoangVu</title>
+  <title>VipTool</title>
   
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZBY29KLJL"></script>
@@ -47,7 +47,7 @@
   <div class="row" style="padding:15px">
     <div class="panel panel-primary">
       <div class="panel-heading">
-        <h3 class="panel-title">Nong Hoang Vu</h3>
+        <h3 class="panel-title">VipTool</h3>
       </div>
       <div class="panel-body">
         <div id="head-html">
